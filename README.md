@@ -107,6 +107,3 @@ Example Response:
 ```json
 {}
 ```
-# Posey
-# Posey
-# Posey
